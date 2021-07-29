@@ -8,5 +8,5 @@ My name is Omer Maksuti and I am a Software Engineer, currently living in Kosovo
 - 🌱 I use: `.php`, `.js`, `.html`, `.css`, `.vue` & `.ts`.
 - 👯 Learning all about Open Source.
 - 💬 Ping me about: laravel, php, javascript, node, development & open source.
-- 📫 Reach me: [Facebook](https://www.facebook.com/omermaksutii) & [Linkedin](https://www.linkedin.com/in/omermaksutii).
+- 📫 Reach me: [Facebook](https://www.facebook.com/omermaksutii) & [Linkedin](https://www.linkedin.com/in/omermaksuti).
 
