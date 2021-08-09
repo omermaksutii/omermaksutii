@@ -12,5 +12,5 @@ My name is Omer Maksuti and I am a Software Engineer, currently living in Kosovo
 
 <p align="left"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/RahulSDeshpande/count.svg" />
+  <img src="https://profile-counter.glitch.me/omermaksutii/count.svg" />
 </p>
