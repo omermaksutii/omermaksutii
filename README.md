@@ -10,3 +10,7 @@ My name is Omer Maksuti and I am a Software Engineer, currently living in Kosovo
 - 💬 Ping me about: laravel, php, javascript, node, development & open source.
 - 📫 Reach me: [Facebook](https://www.facebook.com/omermaksutii) & [Linkedin](https://www.linkedin.com/in/omermaksuti).
 
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/RahulSDeshpande/count.svg" />
+</p>
