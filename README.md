@@ -5,7 +5,7 @@ My name is Omer Maksuti and I am a Software Engineer, currently living in Kosovo
 
 
 - 🔭 I’m currently working on [Attributy](https://attributy.com).
-- 🌱 I use: `.php`, `.js`, `.html`, `.css`, `.vue` & `.ts`.
+- 🌱 I use: `.php`, `.js`, `.py`,`.html`, `.css`, `.vue` & `.ts`.
 - 👯 Learning all about Open Source.
 - 💬 Ping me about: laravel, php, javascript, node, development & open source.
 - 📫 Reach me: [Facebook](https://www.facebook.com/omermaksutii) & [Linkedin](https://www.linkedin.com/in/omermaksuti).
