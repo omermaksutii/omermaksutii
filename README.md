@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-My name is Omer Maksuti, and I am a Software Engineer with over 5 years of experience, currently living in Mitrovica, Kosovo, and working at Kosovo Pristina. I specialize in blockchain development and have a passion for creating innovative solutions.
+My name is Omer Maksuti, and I am a Software Engineer with over 7 years of experience, working at Kosovo, Pristina. I specialize in blockchain development and have a passion for creating innovative solutions.
 
 ## Currently Working On
 - [UKITES](https://ukites.co.uk)
